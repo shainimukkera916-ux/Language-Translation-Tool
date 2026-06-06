@@ -55,4 +55,4 @@ Language_Translator/
 
 ## Author
 
-Developed as part of an internship project.
+ Developed by Shaini Mukkera as part of an internship project.
